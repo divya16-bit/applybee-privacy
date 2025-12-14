@@ -1,1 +1,0 @@
-# applybee-privacy
